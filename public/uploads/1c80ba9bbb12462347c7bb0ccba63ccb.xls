@@ -1,0 +1,27 @@
+<table border="1" id="tblData" class=" table table-striped">
+                <thead style="text-align: center; width: 100%" class="thead">
+                    <tr>
+                        <th>T/R</th>
+                        <th>Sana</th>
+                        <th>Uchastka</th>
+                        <th>Smena</th>
+                        <th>Model</th>
+                        <th>Tabel raqam</th>
+                        <th>Bo'lim nomi</th>
+                        <th>P/O</th>
+                        <th>Win kod</th>
+                        <th>Defect cod</th>
+                        <th>Sarflangan vaqt</th>
+                        <th>Ism Sharifi</th>
+                        <th>Muommo</th>
+                        <th>Izox</th>
+                        <th>Ochilgan vaqti</th>
+                        <th>Yopilgan vaqti</th>
+                        <th>Xarajat qiymati</th>
+                        <th>Nuqson xajmi</th>
+
+                    </tr>
+                </thead>
+                <tbody style="text-align: center;">
+                                </tbody>
+            </table>

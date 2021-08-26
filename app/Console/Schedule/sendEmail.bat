@@ -1,0 +1,1 @@
+php d:\OSPanel\domains\prts\artisan command:name
